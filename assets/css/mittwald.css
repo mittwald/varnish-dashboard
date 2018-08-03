@@ -1,0 +1,24 @@
+/* Mittwald Modification */
+
+.navbar-inverse {
+    background-color: #0072bc;
+    border-color: #FFFFFF;
+}
+
+.navbar-inverse .navbar-text {
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    color: #72bf44;
+    background-color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #72bf44;
+    background-color: #FFFFFF;
+}
